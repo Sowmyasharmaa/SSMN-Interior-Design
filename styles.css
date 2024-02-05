@@ -1,0 +1,399 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+  background-image: url("image/white-paper-texture-background.jpg");
+  height: 100%;
+  background-size: cover;
+}
+/* navbar start*/
+@media screen and (min-width:777px){
+    .nav-link {
+      padding:18px 0;
+      min-width:120px;
+    }
+    .navbar {
+      padding: 0
+    }
+  }
+/* footer code */
+.footer{
+    background: #020202;
+    color:white;
+    
+    .links{
+      ul {list-style-type: none;}
+      li a{
+        color: white;
+        text-decoration: none;
+        transition: color .2s;
+        &:hover{
+          text-decoration:none;
+          color:#4180CB;
+          }
+      }
+    }
+    .about-company{
+      i{font-size: 25px;}
+      a{
+        color:white;
+        transition: color .2s;
+        &:hover{color:#4180CB}
+      }
+    } 
+    .location{
+      i{font-size: 18px;}
+    }
+    .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+  }
+  /* footer code end */
+  /*contact page */
+  h2{
+    font-weight: bolder;
+  }
+  .text-contact{
+    font-size: 16px;
+    color: #020202bd;
+  }
+  .email-item{
+    padding-left: 100px;
+    color: #f80482;
+  }
+  .email-item1{
+    padding-left: 130px;
+    color: #f80482;
+  }
+  .main-item {
+    margin-left: 10px;
+    font-weight: bolder;
+    color: #f80482;
+    text-decoration: none;
+    
+  }
+  .contact-item{
+    padding-left: 100px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+  }
+  .contact-item1{
+    text-align: center;
+    padding: 0;
+  }
+  h5{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #61aff8;
+  }
+ 
+  .main-contact{
+    text-align: center;
+   width: 100%;
+    height: 100%;
+  }
+  form{
+    margin: 10px;
+    padding: 10px;
+  }
+  .input-item{
+    margin: 2px;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #CBC6C6;
+  }
+  .input-item1{
+    margin: 2px;
+    width: 300px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #CBC6C6;
+  }
+  .button-item{
+    background-color: #4180CB;
+  
+    color: #ffffff;
+    margin: 5px;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #CBC6C6
+
+  }
+  ::placeholder{
+    padding: 10px;
+   
+  }
+  @media only screen and (max-width: 900px){
+    .contact-item{
+      width: 100%;
+      margin: 10px;
+    }
+    .input-item{
+      width: 100%;
+      margin: 5px;
+    }
+    .input-item1{
+      width: 100%;
+      margin: 5px;
+    }
+    .button-item{
+      width: 100%;
+      margin: 5px;
+    }
+  }
+  @media only screen and (max-width: 600px){
+    .contact-item{
+      width: 100%;
+      margin: 5px;
+    }
+    .input-item{
+      width: 100%;
+      margin: 2px;
+    }
+    .input-item1{
+      width: 100%;
+      margin: 2px;
+    }
+    .button-item{
+      width: 100%;
+      margin: 2px;
+    }
+  }
+  @media only screen and (max-width: 375px){
+    
+    .contact-item{
+      width:100px;
+      margin: 3px;
+      
+    }
+    .input-item{
+      width: 100%;
+      margin: 2px;
+    }
+    .input-item1{
+      width: 100%;
+      margin: 2px;
+    }
+    .button-item{
+      width: 100%;
+      margin: 2px;
+    }
+  }
+   /* services image code*/
+ .main-services{
+    display: flex;
+   }
+    .services{
+      margin: 15px;
+      width: 500px;
+      height: 450px;
+      border: 1px solid #B5B2B2;
+     
+    }
+    .img-card{
+      width: 100%;
+      height: 250px;
+    }
+    .services-head{
+      color: #ff9500;
+      font-size: 24px;
+      padding-left: 10px;
+    }
+    .services-para{
+      color: #161212;
+    padding-left: 10px;
+    }
+    .services-button {
+      border-radius: 10px;
+      text-align: center;
+      border: 0px;
+     padding: 5px;
+     width: 90%;
+     color: #ffffff;
+     background-color: #671feb;
+    }
+    @media only screen and (min-width: 600px) {
+      .services {
+        width: 48%; /* Set width to occupy less space on larger screens */
+      }
+    }
+    @media only screen and (min-width: 1024px) {
+      .services {
+        width: 30%; /* Further reduce width for larger screens */
+      }
+    }
+    /* home interior design page*/
+  .home-interior{
+    position: relative;
+    text-align: center;
+    color: rgba(250, 1, 100, 0.8);
+    margin: 10px;
+    width: 356px;
+    height: 308px;
+    border-radius: 25px 24px 190px 28px;
+  }
+  .home-img{
+    width: 356px;
+    height: 308px;
+    border-radius: 25px 24px 190px 28px;
+  }
+  .home-text{
+    font-size: 36px;
+    font-weight: bolder;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+  }
+  .home-page{
+    display: flex;
+  }
+  /* index code*/
+  
+  .carousel-button{
+    width: 300px;
+    padding: 10px;
+    border: 0px;
+    font-weight: bolder;
+    border-radius: 20px;
+    background-color: #4180CB;
+    color: #fff;
+  }
+  .homepage{
+    display: flex;
+    margin: 15px;
+  }
+  .homepage-card{
+    flex: 1;
+  }
+  .homepage-img{
+    padding-left: 100px;
+    width: 600px;
+    height: 400px;
+    border-radius: 5px;
+   
+  }
+  .homepage-card:first-child{
+    padding: 0%;
+  }
+  .homepage-head{
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .homepage-para{
+    padding: 10px;
+    font-size: 24px;
+  }
+  .homepage-button{
+    width: 300px;
+    padding: 10px;
+    border: 0px;
+    font-weight: bolder;
+    border-radius: 20px;
+    background-color: #4180CB;
+    color: #fff;
+  }
+
+  /* experience code */
+  .main-experience{
+    margin: 10px;
+    padding: 10px;
+  }
+  .experience{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    border: 0Px;
+  }
+  
+  .experience-head{
+     font-size: 36px;
+  }
+  .experience-img{
+    width: 100px;
+  }
+  @media only screen and (max-width:2000px){
+    .main-experience{
+       width: 100%;
+    }
+  }
+  @media only screen and (max-width:750px) {
+    .homepage-img{
+      width: 100%;
+    }
+    .homepage{
+      display: block;
+      margin: 8px;
+    }
+    .homepage-head{
+      font-size: 24px;
+    }
+  }
+  @media only screen and (max-width:500px){
+    .homepage{
+      display: block;
+    }
+    .homepage-img{
+      width: 100%;
+    }
+  }
+  @media only screen and(max-900px){
+    .homepage{
+      display: block;
+    }
+    .homepage-img{
+      width: 250px;
+    }
+    .homepage-head{
+      font-size: 20px;
+    }
+    .homepage-para{
+      font-size: 12px;
+    }
+  }
+  /* why choose us code*/
+  .main-image{
+    width: 100%;
+    
+  }
+  .main-text{
+    font-size: 56px;
+    font-weight: bolder;
+    color: #ffffff;
+    position: absolute;
+    top: 65%;
+    left: 40%;
+  }
+  .main-para{
+    margin: 10px;
+    padding: 15px;
+    font-size: 24px;
+  }
+  /* teams page code */
+  .main-team{
+    display: flex;
+
+  }
+  .team{
+    padding: 10px;
+    width: 400px;
+    margin: 10px;
+    border: 1px solid #000;
+    text-align: center;
+  }
+  .teams-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+  }
+  .team-head{
+    color: #161212;
+  }
+  
