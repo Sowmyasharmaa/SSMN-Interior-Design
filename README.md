@@ -50,34 +50,41 @@ Interior design is the art and science of enhancing the interior of a space to c
 
 Key elements of interior design include:
 
-Space Planning:
+# Space Planning:
 
 Analyzing the available space and determining the best arrangement of furniture, fixtures, and other elements to optimize functionality and flow.
-Color Palette:
+
+# Color Palette:
 
 Choosing a harmonious color scheme that suits the purpose of the space and enhances its overall atmosphere. Colors can influence mood and perception.
 Furniture and Fixtures:
 
 Selecting and arranging furniture and fixtures that complement the design concept, considering both aesthetics and functionality.
-Lighting:
+
+# Lighting:
 
 Planning and implementing effective lighting solutions to enhance the mood and functionality of the space. This includes natural light, artificial lighting, and the use of fixtures.
 Textures and Materials:
 
 Incorporating a variety of textures, fabrics, and materials to add visual interest and tactile appeal. This includes flooring, wall coverings, upholstery, and more.
-Style and Theme:
+
+# Style and Theme:
 
 Defining a consistent style or theme that ties together all design elements. Styles can range from traditional to modern, minimalist to eclectic, and more.
-Decoration and Accessories:
+
+# Decoration and Accessories:
 
 Adding decorative elements such as artwork, plants, accessories, and other embellishments to personalize and enhance the space.
-Functionality and Ergonomics:
+
+# Functionality and Ergonomics:
 
 Ensuring that the design not only looks good but also serves its intended purpose. This involves considering the needs and comfort of the occupants.
-Sustainability:
+
+# Sustainability:
 
 Integrating environmentally friendly and sustainable design practices, including the use of eco-friendly materials, energy-efficient lighting, and more.
-Budget and Project Management:
+
+# Budget and Project Management:
 
 Managing the budget effectively and coordinating the entire design project, including collaboration with contractors, architects, and other professionals.
 
