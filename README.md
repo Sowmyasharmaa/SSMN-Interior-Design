@@ -84,39 +84,39 @@ Managing the budget effectively and coordinating the entire design project, incl
 # AZURE CORE AZURE SERVICES:
 
 
-Azure Storage Account:
+# Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
 
-Azure Blob Storage:
+# Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 
 
 
-Azure Backup Service:
+# Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
 
 
 
-Azure RBAC which is a role-based access service:
+# Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
 
 
 
 
-AZURE AI SERVICES:
+# AZURE AI SERVICES:
 Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.       
 
-Manage Identity:
+# Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
 
 
 
 
-Azure AI Service
+# Azure AI Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
 
 
@@ -125,7 +125,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 
 
-Search Service:
+# Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
 
 
