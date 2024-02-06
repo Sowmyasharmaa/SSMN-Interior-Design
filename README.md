@@ -11,7 +11,7 @@ Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
 GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
 
-# Industry: LIFESTYLE(Explore the Skills)
+# Industry: LIFESTYLE(SSMN Interior Design)
 # Team & Responsibilities:
 
 1.Sowmya Sharma:
