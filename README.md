@@ -93,7 +93,6 @@ Managing the budget effectively and coordinating the entire design project, incl
 
 # Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
-<img src-"https://github.com/Sowmyasharmaa/SSMN-Interior-Design/blob/main/IMG_20240202_155021-01.jpeg">
 
 
 # Azure Blob Storage:
