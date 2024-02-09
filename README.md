@@ -4,7 +4,8 @@
 # Project Details:
 Static Website URL:
 
-Youtube Video URL : 
+Youtube Video URL :
+
 GIT HUB URL: 
 
 # Industry: LIFESTYLE(SSMN Interior Design)
