@@ -117,18 +117,29 @@ Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, d
 # Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
 
-
+![Screenshot (4)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/6e425cd5-7681-457b-99e4-0e57dcd5feef)
 
 # Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
+![Screenshot (5)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/beab0a3a-5bbc-4a7b-86ee-126d89176517)
 
-
+![Screenshot (6)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/ea02080c-d2e0-44fb-a977-3e157a663ae9)
 
 
 # AZURE AI SERVICES:
 Azure Bot Service:
-Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.       
+Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.      
+![Screenshot (7)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/137f3183-952d-4d07-aad1-d4e28edc51bc)
+
+![Screenshot (8)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/9d5d54d0-a3a9-481a-94c8-c02a50fe0f0b)
+
+![Screenshot (9)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/2cfee06b-b093-4d5c-baa8-3a589d830635)
+
+![Screenshot (10)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/e85d5cc9-065d-498a-9637-6dff9039fd82)
+
+![Screenshot (11)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/21655843-bdb5-4760-a334-b7bb13e10e78)
+
 
 # Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
