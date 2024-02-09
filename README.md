@@ -25,8 +25,11 @@ Development, deployment, Static website in Azure portal.
 Documentation and content collection of the project.
 # AZURE CORE SERVICES USED:
 Azure Storage
+
 Azure containers
+
 Azure backup
+
 Azure RBAC which is a role-based access service
 # AZURE AI SERVICES USED:
 Azure Bot Service
