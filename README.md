@@ -83,15 +83,18 @@ Integrating environmentally friendly and sustainable design practices, including
 Managing the budget effectively and coordinating the entire design project, including collaboration with contractors, architects, and other professionals.
 
 # AZURE CORE AZURE SERVICES:
+![Screenshot (1)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/f220d609-cdb6-4ec5-9e14-fb82bfa59a62)
 
 
 # Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+![Screenshot (2)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/071ff6ca-6124-458b-b344-803dfe132d46)
 
 
 # Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 
+![Screenshot (3)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/9494b174-18a7-4b36-909d-cbef61ebcc5e)
 
 
 # Azure Backup Service:
