@@ -24,38 +24,14 @@ Development, deployment, Static website in Azure portal.
 4.Santhosh:
 Documentation and content collection of the project.
 # AZURE CORE SERVICES USED:
-
-![Screenshot (1)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/58f06abf-544f-4c10-86bd-bd161bc2396e)
-
 Azure Storage
-![Screenshot (2)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/ade9d5cc-c99a-4cd3-873d-1105bf1961c2)
-
 Azure containers
-![Screenshot (3)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/6efd090c-5833-4b6c-a7cd-4ac70680ed2c)
-
 Azure backup
-![Screenshot (4)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/6e425cd5-7681-457b-99e4-0e57dcd5feef)
-
 Azure RBAC which is a role-based access service
-![Screenshot (5)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/beab0a3a-5bbc-4a7b-86ee-126d89176517)
-
-![Screenshot (6)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/ea02080c-d2e0-44fb-a977-3e157a663ae9)
-
-
 # AZURE AI SERVICES USED:
 Azure Bot Service
-![Screenshot (7)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/137f3183-952d-4d07-aad1-d4e28edc51bc)
-![Screenshot (8)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/9d5d54d0-a3a9-481a-94c8-c02a50fe0f0b)
-![Screenshot (9)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/2cfee06b-b093-4d5c-baa8-3a589d830635)
-![Screenshot (10)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/e85d5cc9-065d-498a-9637-6dff9039fd82)
-![Screenshot (11)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/21655843-bdb5-4760-a334-b7bb13e10e78)
-
-
 Manage Identity
-
 Azure AI Service
-
-
 # PROBLEM STATEMENT:
 "In today's fast-paced world, individuals often struggle to create living and working spaces that reflect their personalities, enhance functionality, and promote well-being. This challenge is exacerbated by limited access to affordable, sustainable, and aesthetically pleasing design solutions. Consequently, there is a pressing need for innovative approaches and technologies in interior design that address these concerns, facilitating the creation of spaces that are not only visually appealing but also conducive to productivity, relaxation, and overall satisfaction."
 
