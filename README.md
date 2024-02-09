@@ -84,14 +84,17 @@ Integrating environmentally friendly and sustainable design practices, including
 Managing the budget effectively and coordinating the entire design project, including collaboration with contractors, architects, and other professionals.
 
 # AZURE CORE AZURE SERVICES:
+![Screenshot (1)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/0b75c732-5d26-4d07-ac14-165b59e768b7)
 
 
 # Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+![Screenshot (2)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/4a0d4403-f827-4a59-9cad-39ab95150d28)
 
 
 # Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
+![Screenshot (3)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/ed1c4c47-07fb-408a-a231-38aacd8bd768)
 
 
 
@@ -121,6 +124,11 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 
 ![Screenshot (11)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/153355914/21655843-bdb5-4760-a334-b7bb13e10e78)
 
+![Screenshot (12)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/b83f5a88-2a02-4d03-bf9e-2514d25336ad)
+
+![Screenshot (13)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/ab86a715-f588-4bfb-a3c2-8d3dfacbf7f8)
+
+
 
 # Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
@@ -143,5 +151,15 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 # Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+![Screenshot (12)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/b83f5a88-2a02-4d03-bf9e-2514d25336ad)
 
+![Screenshot (14)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/990160e7-7dfb-4025-8ec4-f2abe6c976f5)
 
+# Final project statement:
+The objective of the Interior Design Website project is to create a visually stunning and functional online platform that serves as a showcase for interior design services, portfolio, and inspiration. The website aims to attract potential clients, establish credibility in the industry, and provide a seamless user experience for visitors seeking design inspiration or services.The Interior Design Website project aims to elevate the online presence of the interior design firm, effectively showcasing its expertise, portfolio, and services to attract potential clients and engage design enthusiasts. Through strategic design, functionality, and content, the website will serve as a powerful marketing tool, reinforcing the firm's brand identity and establishing its reputation as a leading provider of innovative and stylish interior design solutions.
+
+![Screenshot (19)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/d805ff15-94cc-43fb-99c9-55460f700d32)
+
+![Screenshot (20)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/537a98f3-4877-4dd8-b12e-982c522ffd23)
+
+![Screenshot (21)](https://github.com/Sowmyasharmaa/SSMN-Interior-Design/assets/157475959/58faf3df-d0e0-4610-8a95-8d3f2922b807)
