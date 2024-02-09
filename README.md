@@ -2,9 +2,9 @@
 
 
 # Project Details:
-Static Website URL:
+Static Website URL:https://designacc01.z13.web.core.windows.net/
 
-Youtube Video URL :
+Youtube Video URL :https://youtu.be/0ay0LQ0Dxe4?si=vlISWBjKGcuVRJjr
 
 GIT HUB URL: 
 
