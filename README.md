@@ -33,7 +33,9 @@ Azure backup
 Azure RBAC which is a role-based access service
 # AZURE AI SERVICES USED:
 Azure Bot Service
+
 Manage Identity
+
 Azure AI Service
 # PROBLEM STATEMENT:
 "In today's fast-paced world, individuals often struggle to create living and working spaces that reflect their personalities, enhance functionality, and promote well-being. This challenge is exacerbated by limited access to affordable, sustainable, and aesthetically pleasing design solutions. Consequently, there is a pressing need for innovative approaches and technologies in interior design that address these concerns, facilitating the creation of spaces that are not only visually appealing but also conducive to productivity, relaxation, and overall satisfaction."
