@@ -1,13 +1,11 @@
 # SSMN-Interior-Design
-Interior design is the art and science of enhancing the interior of a space to create a more aesthetically pleasing and functional environment. It involves a combination of creativity, technical knowledge, and problem-solving skills to transform a space into a well-designed and cohesive setting.
-Unleash Your Potential: Explore Skills, Ignite Success".
+
 
 # Project Details:
-Static Website URL: https://skillstorage07.z13.web.core.windows.net/
+Static Website URL:
 
-Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
-
-GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
+Youtube Video URL : 
+GIT HUB URL: 
 
 # Industry: LIFESTYLE(SSMN Interior Design)
 # Team & Responsibilities:
@@ -32,11 +30,11 @@ Azure backup
 
 Azure RBAC which is a role-based access service
 # AZURE AI SERVICES USED:
-Azure Bot Service
+AI Bot Service
 
 Manage Identity
 
-Azure AI Service
+AI Language Service
 # PROBLEM STATEMENT:
 "In today's fast-paced world, individuals often struggle to create living and working spaces that reflect their personalities, enhance functionality, and promote well-being. This challenge is exacerbated by limited access to affordable, sustainable, and aesthetically pleasing design solutions. Consequently, there is a pressing need for innovative approaches and technologies in interior design that address these concerns, facilitating the creation of spaces that are not only visually appealing but also conducive to productivity, relaxation, and overall satisfaction."
 
