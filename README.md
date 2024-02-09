@@ -3,8 +3,6 @@ Interior design is the art and science of enhancing the interior of a space to c
 Unleash Your Potential: Explore Skills, Ignite Success".
 
 # Project Details:
-Project Demo URL: https://portal.azure.com/#home
-
 Static Website URL: https://skillstorage07.z13.web.core.windows.net/
 
 Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
